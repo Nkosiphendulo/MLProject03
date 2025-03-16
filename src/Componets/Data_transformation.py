@@ -28,7 +28,7 @@ class DataTransformation:
         
         '''
         try:
-            numerical_columns = ["Student_ID", "Age", "","Study_Hours_per_week",
+            numerical_columns = ["Student_ID", "Age","Study_Hours_per_week",
                                  "Online_Courses_Completed","Assignment_Completion_Rate (%)",
                                  "Exam_Score (%)","Attendance_Rate (%)","Final_Rate", "Sleeping_Hours_per_Night", 
                                  "Time_Spent_on_Social_Media (hours/week)"]
